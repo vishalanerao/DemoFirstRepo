@@ -7,4 +7,8 @@ public class OpenBrowser {
 	public void openBrowser() {
 
 	}
+	@Test
+	public void openURL(){
+		
+	}
 }
